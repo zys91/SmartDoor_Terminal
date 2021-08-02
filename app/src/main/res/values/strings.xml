@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">智能门禁终端</string>
+    <string name="apiUrl">http://your.service.api:20082/api</string>
+    <string name="login_uid">用户账号</string>
+    <string name="login_pwd">登录密码</string>
+    <string name="uid_hints">请输入用户名</string>
+    <string name="pwd_hints">请输入密码</string>
+    <string name="hid_hints">请输入需要呼叫的户号(例如:404)</string>
+    <string name="btn_login">立即登录</string>
+    <string name="title_activity_nav">MainNav</string>
+    <string name="title_webrtc">视频通话</string>
+    <string name="title_recognize">人脸解锁</string>
+    <string name="video_start">呼叫通话</string>
+    <string name="video_end">结束通话</string>
+    <string name="master">主人</string>
+    <string name="visit">访客</string>
+    <string name="face_register">登记注册</string>
+</resources>
