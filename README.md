@@ -11,3 +11,6 @@
 5. 远程开门指令通过WebRTC携带信息进行发送与接收；
 6. 摄像头采用的USB接口外置带红外摄像头，可实现夜间人脸识别解锁。
 
+## 友情提醒
+
+[此仓库](https://github.com/zys91/SmartDoor_Terminal)为智能门禁设备终端侧，需与智能门禁移动客户端配合食用，用户侧仓库[传送门](https://github.com/zys91/SmartDoor_Client)
