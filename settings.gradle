@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "SmartDoorTerminal"
+rootProject.name = "SmartDoor_Terminal"
